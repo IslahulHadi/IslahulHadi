@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ahul, a curious mind exploring the world of Computer Science.<br>Currently studying Information Systems with a strong interest in software development, AI, and building things that solve real problems. I enjoy learning new technologies, working on projects, and growing as a developer every day.<br><br>🌱 I’m currently learning: Web Development, Python, and Git.<br>⚡ Fun fact: I believe the best way to learn is by doing — and breaking things along the way.<br>📫 Let’s connect and build something awesome!
+Hi, I'm Ahul,Currently studying Computer Science with a strong interest in software development, AI, and building things that solve real problems. I enjoy learning new technologies, working on projects, and growing as a developer every day.<br><br>🌱 I’m currently learning: Web Development, Python, and Git.<br>⚡ Fun fact: I believe the best way to learn is by doing — and breaking things along the way.<br>📫 Let’s connect and build something awesome!
 
 
 ## 🌐 Socials:
