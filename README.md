@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I'm Ahul,Currently studying Computer Science with a strong interest in software development, AI, and building things that solve real problems. I enjoy learning new technologies, working on projects, and growing as a developer every day.<br><br>🌱 I’m currently learning: Web Development, Python, and Git.<br>⚡ Fun fact: I believe the best way to learn is by doing — and breaking things along the way.<br>📫 Let’s connect and build something awesome!
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/islahul51_) 
 
@@ -10,10 +9,6 @@ Hi, I'm Ahul,Currently studying Computer Science with a strong interest in softw
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IslahulHadi&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=IslahulHadi&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IslahulHadi&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IslahulHadi&limit=5&theme=dark&combine_all_yearly_contributions=true)
